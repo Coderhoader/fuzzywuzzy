@@ -14,6 +14,12 @@
             <artifactId>fuzzywuzzy-build</artifactId>
             <version>1.4.0</version>
         </dependency>
+        
+        <dependency>
+            <groupId>me.xdrop</groupId>
+            <artifactId>fuzzywuzzy</artifactId>
+            <version>VERSION</version>
+        </dependency>
     </dependencies>
 
     <licenses>
